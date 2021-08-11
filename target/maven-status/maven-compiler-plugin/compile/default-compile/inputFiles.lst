@@ -1,0 +1,14 @@
+/home/esodero/dev/workspace/osde/dotcms-plugins/plugin-workflow/src/main/java/ar/com/osde/biblos/commons/CustomDBParametersLoader.java
+/home/esodero/dev/workspace/osde/dotcms-plugins/plugin-workflow/src/main/java/com/dotmarketing/portlets/workflows/URLUtils.java
+/home/esodero/dev/workspace/osde/dotcms-plugins/plugin-workflow/src/main/java/com/dotmarketing/portlets/workflows/ajax/WfRoleStoreAjax.java
+/home/esodero/dev/workspace/osde/dotcms-plugins/plugin-workflow/src/main/java/ar/com/osde/biblos/entities/WorkflowEntity.java
+/home/esodero/dev/workspace/osde/dotcms-plugins/plugin-workflow/src/main/java/ar/com/osde/dotcms/api/rest/WorkflowRestService.java
+/home/esodero/dev/workspace/osde/dotcms-plugins/plugin-workflow/src/main/java/com/dotmarketing/portlets/workflows/business/WorkflowAPIImpl.java
+/home/esodero/dev/workspace/osde/dotcms-plugins/plugin-workflow/src/main/java/ar/com/osde/biblos/reportes/ReporteUtils.java
+/home/esodero/dev/workspace/osde/dotcms-plugins/plugin-workflow/src/main/java/ar/com/osde/biblos/reportes/ReporteWorkflow.java
+/home/esodero/dev/workspace/osde/dotcms-plugins/plugin-workflow/src/main/java/com/dotmarketing/portlets/workflows/model/WorkflowProcessor.java
+/home/esodero/dev/workspace/osde/dotcms-plugins/plugin-workflow/src/main/java/com/dotmarketing/portlets/workflows/ShowFileServlet.java
+/home/esodero/dev/workspace/osde/dotcms-plugins/plugin-workflow/src/main/java/ar/com/osde/biblos/loader/WorkflowProperties.java
+/home/esodero/dev/workspace/osde/dotcms-plugins/plugin-workflow/src/main/java/com/dotmarketing/portlets/workflows/actionlet/MarcarFinalizado.java
+/home/esodero/dev/workspace/osde/dotcms-plugins/plugin-workflow/src/main/java/com/dotmarketing/portlets/workflows/WorkflowUtils.java
+/home/esodero/dev/workspace/osde/dotcms-plugins/plugin-workflow/src/main/java/com/dotmarketing/portlets/workflows/WFWConstants.java

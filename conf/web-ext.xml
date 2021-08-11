@@ -1,0 +1,9 @@
+<servlet>
+	<servlet-name>ShowFile</servlet-name>
+	<servlet-class>com.dotmarketing.portlets.workflows.ShowFileServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+	<servlet-name>ShowFile</servlet-name>
+	<url-pattern>/file</url-pattern>
+</servlet-mapping>
