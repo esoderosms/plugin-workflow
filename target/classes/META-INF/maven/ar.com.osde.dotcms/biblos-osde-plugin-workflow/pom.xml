@@ -36,6 +36,18 @@
             <version>3.1.0</version>
             <scope>provided</scope>
         </dependency>
+		<dependency>
+		    <groupId>javax.servlet.jsp</groupId>
+		    <artifactId>jsp-api</artifactId>
+		    <version>2.2</version>
+		    <scope>provided</scope>
+		</dependency>
+		<dependency>
+		    <groupId>org.apache.lucene</groupId>
+		    <artifactId>lucene-queryparser</artifactId>
+		    <version>7.1.0</version>
+		    <scope>provided</scope>
+		</dependency>        
         <dependency>
             <groupId>ar.com.osde.dotcms</groupId>
             <artifactId>biblos-osde-plugin-secure</artifactId>
@@ -55,6 +67,13 @@
             <artifactId>osde-framework-entities</artifactId>
             <version>2.1.1</version>
             <systemPath>${project.basedir}/libs/osde-framework-entities-2.1.1.jar</systemPath>
+            <scope>system</scope>
+        </dependency>
+  		<dependency>
+            <groupId>ar.com.osde.framework.services</groupId>
+            <artifactId>osde-framework-services</artifactId>
+            <version>2.1.1</version>
+            <systemPath>${project.basedir}/libs/osde-framework-services-2.1.1.jar</systemPath>
             <scope>system</scope>
         </dependency>
 <!--          <dependency>
@@ -168,8 +187,7 @@
 			<version>5.6.10</version>
 			<systemPath>${project.basedir}/libs/org.apache.felix.main-5.6.10.jar</systemPath>
 			<scope>system</scope>
-		</dependency>
-    	
+		</dependency>    	
 	</dependencies> 
 	
 	

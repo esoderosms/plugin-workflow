@@ -1,2 +1,16 @@
+com/dotmarketing/portlets/workflows/ShowFileServlet.class
+com/dotmarketing/portlets/workflows/business/WorkflowAPIImpl$ActionletComparator.class
+ar/com/osde/dotcms/api/rest/WorkflowRestService.class
+com/dotmarketing/portlets/workflows/model/WorkflowProcessor.class
+com/dotmarketing/portlets/workflows/WorkflowUtils.class
+com/dotmarketing/portlets/workflows/actionlet/MarcarFinalizado.class
+com/dotmarketing/portlets/workflows/ajax/WfRoleStoreAjax.class
+ar/com/osde/biblos/entities/WorkflowEntity.class
+com/dotmarketing/portlets/workflows/business/WorkflowAPIImpl.class
+com/dotmarketing/portlets/workflows/business/WorkflowAPIImpl$1.class
 com/dotmarketing/portlets/workflows/URLUtils.class
+ar/com/osde/biblos/loader/WorkflowProperties.class
+ar/com/osde/biblos/reportes/ReporteWorkflow.class
 ar/com/osde/biblos/commons/CustomDBParametersLoader.class
+ar/com/osde/biblos/reportes/ReporteUtils.class
+com/dotmarketing/portlets/workflows/WFWConstants.class
